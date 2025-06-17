@@ -1,0 +1,21 @@
+[
+  {
+    "name": "mhk",
+    "roll_number": "2",
+    "student_class": "4",
+    "subjects": [
+      "5"
+    ],
+    "marks": {},
+    "gender": "MALE",
+    "age": "13",
+    "contact": "03460630802",
+    "parent_name": "mmm",
+    "parent_contact": "302-13-232",
+    "attendance": {},
+    "remarks": null,
+    "fee_status": "2",
+    "photo_path": "1",
+    "birthday": "2"
+  }
+]
